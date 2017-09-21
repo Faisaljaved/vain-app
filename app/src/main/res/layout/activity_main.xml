@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.faisal.a1stapp.MainActivity">
 
+<<<<<<< HEAD
     <Button
         android:id="@+id/button"
         android:layout_width="200dp"
@@ -21,5 +22,8 @@
         android:text="Service Required"
         tools:layout_editor_absoluteX="96dp"
         tools:layout_editor_absoluteY="290dp" />
+=======
+
+>>>>>>> 1e99d4bbc7c2dbe7b46883be01bb40fea0ae5da9
 
 </android.support.constraint.ConstraintLayout>
