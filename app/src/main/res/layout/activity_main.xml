@@ -6,20 +6,6 @@
     android:layout_height="match_parent"
     tools:context="com.example.faisal.a1stapp.MainActivity">
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="193dp"
-        android:layout_height="66dp"
-        android:text="Provide Service"
-        tools:layout_editor_absoluteX="96dp"
-        tools:layout_editor_absoluteY="125dp" />
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="193dp"
-        android:layout_height="66dp"
-        android:text="Service Required"
-        tools:layout_editor_absoluteX="96dp"
-        tools:layout_editor_absoluteY="290dp" />
 
 </android.support.constraint.ConstraintLayout>
